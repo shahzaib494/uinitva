@@ -1,0 +1,6 @@
+@Unitiva_HostAddress = http://localhost:5153
+
+GET {{Unitiva_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
